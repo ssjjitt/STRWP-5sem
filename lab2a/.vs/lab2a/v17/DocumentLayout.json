@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4669132E-D07C-473D-9233-7D652E602980}|..\\lab2a-task5\\lab2a-task5.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task5\\controllers\\parmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4669132E-D07C-473D-9233-7D652E602980}|..\\lab2a-task5\\lab2a-task5.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task5\\views\\parm\\uri01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4669132E-D07C-473D-9233-7D652E602980}|..\\lab2a-task5\\lab2a-task5.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task5\\requests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4669132E-D07C-473D-9233-7D652E602980}|..\\lab2a-task5\\lab2a-task5.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC2BFB3-3170-443E-B389-5932F784CE41}|..\\lab2a-task4\\lab2a-task4.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task4\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF663056-8474-46AB-A2A4-86E11572C190}|..\\lab2a-task3\\lab2a-task3.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF663056-8474-46AB-A2A4-86E11572C190}|..\\lab2a-task3\\lab2a-task3.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task3\\controllers\\startcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF663056-8474-46AB-A2A4-86E11572C190}|..\\lab2a-task3\\lab2a-task3.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task3\\requests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF663056-8474-46AB-A2A4-86E11572C190}|..\\lab2a-task3\\lab2a-task3.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task3\\views\\start\\one.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC2BFB3-3170-443E-B389-5932F784CE41}|..\\lab2a-task4\\lab2a-task4.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task4\\lab2a-task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06642A1-751C-4564-94B3-9E4A97355217}|..\\lab2a-task2\\lab2a-task2.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06642A1-751C-4564-94B3-9E4A97355217}|..\\lab2a-task2\\lab2a-task2.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBE2699-1020-479C-AC29-C5D47F11209D}|lab2a.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBE2699-1020-479C-AC29-C5D47F11209D}|lab2a.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBE2699-1020-479C-AC29-C5D47F11209D}|lab2a.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBE2699-1020-479C-AC29-C5D47F11209D}|lab2a.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4669132E-D07C-473D-9233-7D652E602980}|..\\lab2a-task5\\lab2a-task5.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab2a-task5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab2a-task3\\Program.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task3\\Program.cs",
+              "RelativeToolTip": "..\\lab2a-task3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:14:53.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lab2a-task4.csproj",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task4\\lab2a-task4.csproj",
+              "RelativeDocumentMoniker": "..\\lab2a-task4\\lab2a-task4.csproj",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task4\\lab2a-task4.csproj",
+              "RelativeToolTip": "..\\lab2a-task4\\lab2a-task4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T07:13:40.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab2a-task2\\Program.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task2\\Program.cs",
+              "RelativeToolTip": "..\\lab2a-task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:12:40.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uri01.cshtml",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\Views\\Parm\\Uri01.cshtml",
+              "RelativeDocumentMoniker": "..\\lab2a-task5\\Views\\Parm\\Uri01.cshtml",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\Views\\Parm\\Uri01.cshtml",
+              "RelativeToolTip": "..\\lab2a-task5\\Views\\Parm\\Uri01.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:10:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParmController.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\Controllers\\ParmController.cs",
+              "RelativeDocumentMoniker": "..\\lab2a-task5\\Controllers\\ParmController.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\Controllers\\ParmController.cs",
+              "RelativeToolTip": "..\\lab2a-task5\\Controllers\\ParmController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:09:42.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task4\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "..\\lab2a-task4\\Controllers\\StatusController.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task4\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "..\\lab2a-task4\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:09:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartController.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task3\\Controllers\\StartController.cs",
+              "RelativeDocumentMoniker": "..\\lab2a-task3\\Controllers\\StartController.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task3\\Controllers\\StartController.cs",
+              "RelativeToolTip": "..\\lab2a-task3\\Controllers\\StartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:08:54.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\lab2a-task2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\lab2a-task2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:08:51.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:08:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab2a-task5\\Program.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\Program.cs",
+              "RelativeToolTip": "..\\lab2a-task5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:04:56.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "requests.http",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\requests.http",
+              "RelativeDocumentMoniker": "..\\lab2a-task5\\requests.http",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\requests.http",
+              "RelativeToolTip": "..\\lab2a-task5\\requests.http",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-14T15:58:27.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "One.cshtml",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task3\\Views\\Start\\One.cshtml",
+              "RelativeDocumentMoniker": "..\\lab2a-task3\\Views\\Start\\One.cshtml",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task3\\Views\\Start\\One.cshtml",
+              "RelativeToolTip": "..\\lab2a-task3\\Views\\Start\\One.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:16:04.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\lab2a-task5\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\lab2a-task5\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T16:00:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "requests.http",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task3\\requests.http",
+              "RelativeDocumentMoniker": "..\\lab2a-task3\\requests.http",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a-task3\\requests.http",
+              "RelativeToolTip": "..\\lab2a-task3\\requests.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-14T16:00:11.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab2a\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:11:35.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

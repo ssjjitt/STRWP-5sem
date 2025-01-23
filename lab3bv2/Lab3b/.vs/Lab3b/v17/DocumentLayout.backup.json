@@ -1,0 +1,612 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\Lab3b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\shared\\_calclink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\shared\\_calclink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\shared\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\shared\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\middlewares\\defaultfordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\middlewares\\defaultfordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\models\\assignrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\models\\assignrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\attributes\\nonauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\attributes\\nonauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\middlewares\\existsusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\middlewares\\existsusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\dto\\admin\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\dto\\admin\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\dto\\admin\\assignroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\dto\\admin\\assignroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\models\\ruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\models\\ruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\attributes\\reauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\attributes\\reauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\attributes\\controlleractionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\attributes\\controlleractionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\attributes\\checkonexistattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\attributes\\checkonexistattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\dto\\admin\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\dto\\admin\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\dto\\admin\\deleteroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\dto\\admin\\deleteroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\dto\\admin\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\dto\\admin\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\dto\\admin\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\dto\\admin\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\calc\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\calc\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\aspcmvc08.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\aspcmvc08.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\admin\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\admin\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\super\\desktop\\lab3b\\aspcmvc08\\views\\admin\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C4FCA2-93AB-4226-95C4-D46676424492}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\views\\admin\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T23:10:55.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Calc.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Shared\\_Calc.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Shared\\_Calc.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Shared\\_Calc.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Shared\\_Calc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T23:10:40.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ASPCMVC08\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwLYBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:39:57.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultForDb.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Middlewares\\DefaultForDb.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Middlewares\\DefaultForDb.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Middlewares\\DefaultForDb.cs",
+              "RelativeToolTip": "ASPCMVC08\\Middlewares\\DefaultForDb.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:40:40.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCMVC08\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:35:34.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignRoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Models\\AssignRoleModel.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Models\\AssignRoleModel.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Models\\AssignRoleModel.cs",
+              "RelativeToolTip": "ASPCMVC08\\Models\\AssignRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:35:41.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:50:58.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExistsUserMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Middlewares\\ExistsUserMiddleware.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Middlewares\\ExistsUserMiddleware.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Middlewares\\ExistsUserMiddleware.cs",
+              "RelativeToolTip": "ASPCMVC08\\Middlewares\\ExistsUserMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:40:48.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_CalcLink.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Shared\\_CalcLink.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Shared\\_CalcLink.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Shared\\_CalcLink.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Shared\\_CalcLink.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:42:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\DTO\\Admin\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\RegisterDto.cs",
+              "RelativeToolTip": "ASPCMVC08\\DTO\\Admin\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:41:10.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NonAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Attributes\\NonAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Attributes\\NonAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Attributes\\NonAuthorizeAttribute.cs",
+              "RelativeToolTip": "ASPCMVC08\\Attributes\\NonAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:36:56.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssignRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\AssignRoleDto.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\DTO\\Admin\\AssignRoleDto.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\AssignRoleDto.cs",
+              "RelativeToolTip": "ASPCMVC08\\DTO\\Admin\\AssignRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:41:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Models\\User.cs",
+              "RelativeToolTip": "ASPCMVC08\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:36:10.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RUser.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Models\\RUser.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Models\\RUser.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Models\\RUser.cs",
+              "RelativeToolTip": "ASPCMVC08\\Models\\RUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:36:05.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "ASPCMVC08\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:40:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Attributes\\ReAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Attributes\\ReAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Attributes\\ReAuthorizeAttribute.cs",
+              "RelativeToolTip": "ASPCMVC08\\Attributes\\ReAuthorizeAttribute.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:36:56.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPCMVC08\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:38:01.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalcController.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Controllers\\CalcController.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Controllers\\CalcController.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Controllers\\CalcController.cs",
+              "RelativeToolTip": "ASPCMVC08\\Controllers\\CalcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:39:50.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ControllerActionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Attributes\\ControllerActionAttribute.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Attributes\\ControllerActionAttribute.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Attributes\\ControllerActionAttribute.cs",
+              "RelativeToolTip": "ASPCMVC08\\Attributes\\ControllerActionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:36:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckOnExistAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Attributes\\CheckOnExistAttribute.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Attributes\\CheckOnExistAttribute.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Attributes\\CheckOnExistAttribute.cs",
+              "RelativeToolTip": "ASPCMVC08\\Attributes\\CheckOnExistAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:36:56.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\DTO\\Admin\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\CreateRoleDto.cs",
+              "RelativeToolTip": "ASPCMVC08\\DTO\\Admin\\CreateRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:41:08.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\DeleteRoleDto.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\DTO\\Admin\\DeleteRoleDto.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\DeleteRoleDto.cs",
+              "RelativeToolTip": "ASPCMVC08\\DTO\\Admin\\DeleteRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:41:09.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\DTO\\Admin\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\LoginDto.cs",
+              "RelativeToolTip": "ASPCMVC08\\DTO\\Admin\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:41:09.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\DTO\\Admin\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\DTO\\Admin\\ChangePasswordDto.cs",
+              "RelativeToolTip": "ASPCMVC08\\DTO\\Admin\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:41:07.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ASPCMVC08\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:37:37.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:41:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:41:59.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Calc.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Calc\\Calc.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Calc\\Calc.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Calc\\Calc.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Calc\\Calc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:41:39.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T23:09:22.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Program.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Program.cs",
+              "RelativeToolTip": "ASPCMVC08\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:30:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC08\\appsettings.json",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\appsettings.json",
+              "RelativeToolTip": "ASPCMVC08\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T22:32:42.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ASPCMVC08",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\ASPCMVC08.csproj",
+              "RelativeDocumentMoniker": "ASPCMVC08\\ASPCMVC08.csproj",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\ASPCMVC08.csproj",
+              "RelativeToolTip": "ASPCMVC08\\ASPCMVC08.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T22:20:42.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Assign.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Admin\\Assign.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Admin\\Assign.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Admin\\Assign.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Admin\\Assign.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:41:32.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T23:09:19.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Admin\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Views\\Admin\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab3b\\ASPCMVC08\\Views\\Admin\\ChangePassword.cshtml",
+              "RelativeToolTip": "ASPCMVC08\\Views\\Admin\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:41:34.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

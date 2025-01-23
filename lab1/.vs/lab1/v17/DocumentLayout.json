@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB6CB0-E592-4171-BEE6-F1A787EBF6E0}|..\\lab1-task6\\lab1-task6.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1-task6\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB6CB0-E592-4171-BEE6-F1A787EBF6E0}|..\\lab1-task6\\lab1-task6.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1-task6\\lab1-task6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322CCAF8-8EB0-4C08-8F1F-96B31986CC4C}|lab1.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1\\controllers\\calculatorcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322CCAF8-8EB0-4C08-8F1F-96B31986CC4C}|lab1.csproj|solutionrelative:controllers\\calculatorcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322CCAF8-8EB0-4C08-8F1F-96B31986CC4C}|lab1.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1\\controllers\\gdvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322CCAF8-8EB0-4C08-8F1F-96B31986CC4C}|lab1.csproj|solutionrelative:controllers\\gdvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F8A5DC-AA22-4F81-AE9D-E61CD372C892}|..\\lab1-task4\\lab1-task4.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1-task4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F8A5DC-AA22-4F81-AE9D-E61CD372C892}|..\\lab1-task4\\lab1-task4.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1-task4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322CCAF8-8EB0-4C08-8F1F-96B31986CC4C}|lab1.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{322CCAF8-8EB0-4C08-8F1F-96B31986CC4C}|lab1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F8A5DC-AA22-4F81-AE9D-E61CD372C892}|..\\lab1-task4\\lab1-task4.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1-task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322CCAF8-8EB0-4C08-8F1F-96B31986CC4C}|lab1.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322CCAF8-8EB0-4C08-8F1F-96B31986CC4C}|lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F8A5DC-AA22-4F81-AE9D-E61CD372C892}|..\\lab1-task4\\lab1-task4.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1-task4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB6CB0-E592-4171-BEE6-F1A787EBF6E0}|..\\lab1-task6\\lab1-task6.csproj|d:\\univer\\!\u0441\u0442\u0440w\u043F\\lab1-task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab1-task6",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task6\\lab1-task6.csproj",
+              "RelativeDocumentMoniker": "..\\lab1-task6\\lab1-task6.csproj",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task6\\lab1-task6.csproj",
+              "RelativeToolTip": "..\\lab1-task6\\lab1-task6.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T16:48:40.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task6\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "..\\lab1-task6\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task6\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "..\\lab1-task6\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:46:02.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorController .cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\Controllers\\CalculatorController .cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculatorController .cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\Controllers\\CalculatorController .cs",
+              "RelativeToolTip": "Controllers\\CalculatorController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:59:55.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task4\\App.config",
+              "RelativeDocumentMoniker": "..\\lab1-task4\\App.config",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task4\\App.config",
+              "RelativeToolTip": "..\\lab1-task4\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-24T07:28:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\lab1-task4\\Form1.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task4\\Form1.cs",
+              "RelativeToolTip": "..\\lab1-task4\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:28:28.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GDVController.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\Controllers\\GDVController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GDVController.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\Controllers\\GDVController.cs",
+              "RelativeToolTip": "Controllers\\GDVController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:06:58.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:17:44.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\lab1-task4\\Form1.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\lab1-task4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:28:26.836Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab1-task4\\Program.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task4\\Program.cs",
+              "RelativeToolTip": "..\\lab1-task4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:30:45.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:36:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab1-task6\\Program.cs",
+              "ToolTip": "D:\\univer\\!\u0421\u0422\u0420W\u041F\\lab1-task6\\Program.cs",
+              "RelativeToolTip": "..\\lab1-task6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:46:30.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
